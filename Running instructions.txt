@@ -1,0 +1,17 @@
+Needed Modules For This Program To Work:
+
+• Cv2
+• Pandas
+• Argparse
+• Colormap
+• Easydev
+
+Running I nstructions of Color Detector Program :
+
+• Open anaconda(or any) command prop.
+• Type " cd [location of folder] "
+• The image you want to interact with should be a png file.
+• Type " python interactivecd.py -i foldernameofimages\yourimagename.png " and Hit Enter.(image folder should be i your project directory) 
+(my folder name is images and i used agriculture.png a lot,in my case it was : python color_detection.py -i images\agriculture.png)
+• When a window show up with an image inside it, click anywhere to find out what color it is.
+• Esc button is mandatory for exiting.
